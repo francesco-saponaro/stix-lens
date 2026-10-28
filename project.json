@@ -1,0 +1,9 @@
+{
+  "slug": "stix-lens",
+  "name": "STIX Lens",
+  "company": "Filigran",
+  "description": "See what is inside a STIX 2.1 bundle before you import it: objects, ATT&CK coverage, relationships and the problems to fix.",
+  "dist": "dist",
+  "test": "npm test -- --run",
+  "build": "npm run build"
+}
